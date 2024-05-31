@@ -1,0 +1,27 @@
+/* src/components/PrivacyPolicy.css */
+
+.privacy-container {
+  padding: 40px;
+  background-color: #f9f9f9;
+}
+
+.privacy-container .container {
+  max-width: 1000px;
+  margin: auto;
+}
+
+.privacy-container h1,
+.privacy-container h2 {
+  color: #333;
+}
+
+.privacy-container p,
+.privacy-container ul {
+  color: #666;
+  line-height: 1.6;
+}
+
+.privacy-container ul {
+  list-style-type: disc;
+  margin-left: 20px;
+}
