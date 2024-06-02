@@ -111,9 +111,7 @@
   background-repeat: repeat-y;
   background-position: 8px 0;
 }
-.contact_section_2_left p:last-child {
-  background: none;
-}
+
 .contact_form_partners {
   float: left;
   margin: 0;
