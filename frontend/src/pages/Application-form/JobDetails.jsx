@@ -7,7 +7,6 @@ import "react-toastify/dist/ReactToastify.css";
 import Navbar from "../../generic_components/Navbar/Navbar";
 import Footer from "../../generic_components/Footer/Footer";
 import { Row, Col } from "react-bootstrap";
-import "./jobDetails.css";
 
 const ApplicationForm = () => {
   const [formData, setFormData] = useState({
