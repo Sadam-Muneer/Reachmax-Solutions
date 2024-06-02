@@ -1,4 +1,3 @@
-/*start about  */
 .about_section_1 {
   float: left;
   margin: 0 0 0 0;
@@ -19,70 +18,7 @@
   background-position: center center;
   background-size: contain;
 }
-.about_section_inner h1 {
-  font-family: "Poppins", sans-serif;
-  font-weight: bold;
-  font-size: 36px;
-  color: #000000;
-  float: left;
-  margin: 0 0 20px 0;
-  padding: 0 0 0 0;
-  width: 100%;
-  text-align: center;
-  letter-spacing: -1px;
-  line-height: 36px;
-}
-.about_section_inner p {
-  font-family: "Poppins", sans-serif;
-  font-size: 14px;
-  color: #000000;
-  float: left;
-  margin: 0 0 0 0;
-  padding: 0 27%;
-  width: 100%;
-  text-align: center;
-}
-.dreams {
-  float: left;
-  margin: 50px 0 0 0;
-  padding: 0 0 0 0;
-  width: 100%;
-  text-align: center;
-}
 
-.dreams h5 {
-  float: left;
-  margin: 0 0 0 0;
-  padding: 0 0 0 0;
-  width: 100%;
-  text-align: center;
-  color: #11110d;
-  font-family: "Poppins", sans-serif;
-  font-weight: 900;
-  font-size: 36px;
-}
-.dreams h5 span {
-  color: #fbd103;
-}
-.dreams p {
-  color: #000;
-  font-family: "Poppins", sans-serif;
-  font-weight: 900;
-  font-size: 13px;
-  float: left;
-  margin: 0 0 0 0;
-  padding: 0 0 0 0;
-  width: 100%;
-  text-align: center;
-}
-
-.about_section_2 {
-  float: left;
-  margin: 0 0 0 0;
-  padding: 50px 0 70px 0;
-  width: 100%;
-  background-color: #ffffff;
-}
 .our_vision {
   float: none;
   margin: 0 auto;
@@ -112,59 +48,6 @@
   background-image: url(../imgs/vision_icon.jpg);
   background-repeat: no-repeat;
   background-position: left top;
-}
-.our_vision_details h3 {
-  color: #000;
-  font-family: "Poppins", sans-serif;
-  font-size: 36px;
-  float: left;
-  width: 100%;
-  margin: 0 0 5px 0;
-  padding: 0;
-}
-.our_vision_details h4 {
-  color: #000;
-  font-family: "Poppins", sans-serif;
-  font-size: 18px;
-  float: left;
-  width: 100%;
-  margin: 10px 0 5px 0;
-  padding: 0;
-}
-.our_vision_details p {
-  color: #000;
-  font-family: "Poppins", sans-serif;
-  font-size: 14px;
-  float: left;
-  width: 100%;
-  margin: 0;
-  padding: 0;
-  line-height: 20px;
-}
-.our_vision_details p span {
-  color: #000;
-  font-family: "Poppins-SemiBold";
-  font-size: 14px;
-  float: left;
-  width: 100%;
-  margin: 0;
-  padding: 0;
-}
-.about_section_3 {
-  float: left;
-  margin: 0 0 0 0;
-  padding: 70px 0 70px 0;
-  width: 100%;
-  background-color: #fafafa;
-}
-.whats_deives {
-  float: none;
-  margin: 0 auto;
-  padding: 0px 0 0px 0px;
-  width: 100%;
-  background-color: #fafafa;
-  max-width: 70%;
-  display: table;
 }
 
 .whats_deives_title {

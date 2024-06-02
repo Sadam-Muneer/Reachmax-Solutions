@@ -4,12 +4,11 @@ import "slick-carousel/slick/slick-theme.css";
 import featureWorkSlide1 from "../../assets/imgs/feature_work_slide_1.jpg";
 import featureWorkSlide2 from "../../assets/imgs/feature_work_slide_2.jpg";
 import featureWorkSlide3 from "../../assets/imgs/feature_work_slide_3.jpg";
-import "./Slick.css";
 
 const ReactSlicks = () => {
   const settings = {
     dots: true,
-    infinite: true, // Set to true to continuously slide without stopping
+    infinite: true, 
     slidesToShow: 3,
     slidesToScroll: 1,
     autoplay: true,
