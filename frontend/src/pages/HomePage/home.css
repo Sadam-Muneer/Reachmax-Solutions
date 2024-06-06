@@ -229,23 +229,7 @@
   padding: 0 0 0 0;
   display: contents;
 }
-/* 
-                @media (max-width: 768px){
-                    .home_section_publish h3,
-                    .home_section_publish p ,
-                    .home_section_publish img {
-                        padding: 0px 0 0px 6%;
-                    }
-                    .home_section_publish a.learn_more {
-                        margin: 50px 0 40px 6%;
-                    }
-                }
-                
-                @media (min-width: 320px) and (max-width: 480px){
-                    .home_section_publish h3 span {
-                        font-size: 34px;
-                    }
-                } */
+
 
 /* end home section publish */
 
@@ -390,16 +374,8 @@
   width: 100%;
   background-color: #f9f9f9;
 }
-/* 
-                @media (min-width: 320px) and (max-width: 480px){
-                    .home_our_journey h1 {
-                        font-size: 32px;
-                        background-size: contain;
-                    }
-                    .journey_plus {
-                        max-width: 50%;
-                    }
-                } */
+
+           
 /* end home our journey */
 
 /* home best clan */
@@ -458,20 +434,6 @@
   background-color: #191919;
   color: #ffd200;
 }
-/* @media (max-width: 768px){
-                    .home_best_clan {
-                        text-align: center;
-                    }
-                
-                    .home_best_clan h1 {
-                        font-size: 21px;
-                        margin: 0 0 20px 0;
-                    }
-                
-                    img.margin_top {
-                        margin-top: 30px;
-                    }
-                } */
 
 /* home end best clan */
 /* home start footer */
